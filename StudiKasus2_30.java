@@ -43,7 +43,7 @@ public class StudiKasus2_30 {
                 System.out.println("Dana penghargaan tidak diberikan");
             }
          
-        
+        mine.close();
 
     
     }
