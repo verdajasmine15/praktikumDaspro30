@@ -33,5 +33,6 @@ public class StudiKasus1_30 {
         else {
            System.out.println("Uang tidak cukup, kurang Rp" + kurang);
         }
-    }
+    mine.close();
+}
 }
